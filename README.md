@@ -4,7 +4,7 @@ Senior Computer Engineering student at cairo university.
 
 Interested in AI and image processing.
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Abdelrhman-Hosny)
+[![GitHub Thaiane](https://img.shields.io/github/followers/Abdelrhman-Hosny?label=follow&style=social)](https://github.com/Abdelrhman-Hosny)
 
   
 <!--
