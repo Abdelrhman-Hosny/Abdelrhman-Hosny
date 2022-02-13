@@ -1,5 +1,9 @@
 ## Hi there, I'm Abdelrhman Hosny
 
+I'm a senior computer engineering student at cairo university.
+
+I'm interested in artificial intelligence and image processing.
+  
 <!--
 **Abdelrhman-Hosny/Abdelrhman-Hosny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
