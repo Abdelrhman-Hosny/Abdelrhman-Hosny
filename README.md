@@ -4,8 +4,20 @@ Senior Computer Engineering student at cairo university.
 
 Interested in AI and image processing.
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/Abdelrhman-Hosny?label=follow&style=social)](https://github.com/Abdelrhman-Hosny)
+Currently reading:
 
+- [ ] Pattern Recognition and Machine Learning - Christopher Bishop
+
+You can find digital notes for the things I study at [Notes Repository](https://github.com/Abdelrhman-Hosny/MachineLearningNotes). You can find notes about:
+- [HuggingFace Transformers course](https://github.com/Abdelrhman-Hosny/MachineLearningNotes/tree/master/NLP/HuggingFace)
+- [NLP - Stanford CS224N](https://github.com/Abdelrhman-Hosny/MachineLearningNotes/tree/master/NLP/CS224n)
+- [Statistics](https://github.com/Abdelrhman-Hosny/MachineLearningNotes/tree/master/Statistics)
+- [Pattern Recognition and Machine Learning](https://github.com/Abdelrhman-Hosny/MachineLearningNotes/tree/master/Bishop-PatternRecognition)
+- and more.....
+****
+Check out my [Kaggle Profile](https://www.kaggle.com/abdelrhmanhosny)
+****
+Projects can be check from the pinned section below
   
 <!--
 **Abdelrhman-Hosny/Abdelrhman-Hosny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
