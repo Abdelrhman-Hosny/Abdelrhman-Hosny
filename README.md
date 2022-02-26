@@ -20,7 +20,7 @@ Check out my [Kaggle Profile](https://www.kaggle.com/abdelrhmanhosny)
 
 Contributor at [Kornia AI](https://github.com/kornia/kornia) and [ivy](https://github.com/unifyai/ivy)
 
-Projects can be check from the pinned section below
+Projects can be checked at the pinned section below
   
 <!--
 **Abdelrhman-Hosny/Abdelrhman-Hosny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
