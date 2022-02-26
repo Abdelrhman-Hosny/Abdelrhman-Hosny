@@ -7,6 +7,7 @@ Interested in AI and image processing.
 Currently reading:
 
 - [ ] Pattern Recognition and Machine Learning - Christopher Bishop
+- [ ] NLP with Transformers - Lewis Tunstall
 
 You can find digital notes for the things I study at [Notes Repository](https://github.com/Abdelrhman-Hosny/MachineLearningNotes). You can find notes about:
 - [HuggingFace Transformers course](https://github.com/Abdelrhman-Hosny/MachineLearningNotes/tree/master/NLP/HuggingFace)
@@ -16,7 +17,9 @@ You can find digital notes for the things I study at [Notes Repository](https://
 - and more.....
 ****
 Check out my [Kaggle Profile](https://www.kaggle.com/abdelrhmanhosny)
-****
+
+Contributor at [Kornia AI](https://github.com/kornia/kornia) and [ivy](https://github.com/unifyai/ivy)
+
 Projects can be check from the pinned section below
   
 <!--
