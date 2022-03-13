@@ -18,7 +18,7 @@ You can find digital notes for the things I study at [Notes Repository](https://
 ****
 Check out my [Kaggle Profile](https://www.kaggle.com/abdelrhmanhosny)
 
-Contributor at [Kornia AI](https://github.com/kornia/kornia) and [ivy](https://github.com/unifyai/ivy)
+Contributor at [huggingface-transformers](https://github.com/huggingface/transformers), [Kornia AI](https://github.com/kornia/kornia) and [ivy](https://github.com/unifyai/ivy)
 
 Projects can be checked at the pinned section below
   
