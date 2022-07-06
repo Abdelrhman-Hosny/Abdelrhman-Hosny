@@ -8,6 +8,7 @@ Currently reading:
 
 - [ ] Pattern Recognition and Machine Learning - Christopher Bishop
 - [ ] NLP with Transformers - Lewis Tunstall
+- [ ] [Forecasting: Principles And Practice - Rob J Hyndman](https://otexts.com/fpp3/)
 
 You can find digital notes for the things I study at [Notes Repository](https://github.com/Abdelrhman-Hosny/MachineLearningNotes). You can find notes about:
 - [HuggingFace Transformers course](https://github.com/Abdelrhman-Hosny/MachineLearningNotes/tree/master/NLP/HuggingFace)
