@@ -1,20 +1,19 @@
 ## Hi there, I'm Abdelrhman Hosny
 
-Senior Computer Engineering student at cairo university.
+A Backend Engineer with a solid AI background at Agolo.
 
-Interested in AI and image processing.
+Interested in Databases, System Design and Information Retrieval
 
 Currently reading:
 
-- [ ] Pattern Recognition and Machine Learning - Christopher Bishop
-- [ ] NLP with Transformers - Lewis Tunstall
-- [x] [Forecasting: Principles And Practice - Rob J Hyndman](https://otexts.com/fpp3/)
+- [ ] Effective Java
+- [ ] Dive into Design Patterns
+- [ ] System Design Interview
 
-You can find digital notes for the things I study at [Notes Repository](https://github.com/Abdelrhman-Hosny/MachineLearningNotes). You can find notes about:
-- [HuggingFace Transformers course](https://github.com/Abdelrhman-Hosny/MachineLearningNotes/tree/master/NLP/HuggingFace)
-- [NLP - Stanford CS224N](https://github.com/Abdelrhman-Hosny/MachineLearningNotes/tree/master/NLP/CS224n)
-- [Statistics](https://github.com/Abdelrhman-Hosny/MachineLearningNotes/tree/master/Statistics)
-- [Pattern Recognition and Machine Learning](https://github.com/Abdelrhman-Hosny/MachineLearningNotes/tree/master/Bishop-PatternRecognition)
+You can find digital notes for the things I study at [Notes Repository](https://github.com/Abdelrhman-Hosny/cs-obsidian-notes). You can find notes about:
+- Design Patterns
+- Effective Java Book Notes
+- System Design
 - and more.....
 ****
 Check out my [Kaggle Profile](https://www.kaggle.com/abdelrhmanhosny)
