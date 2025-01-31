@@ -7,7 +7,7 @@ Interested in Databases, System Design and Information Retrieval
 Currently reading:
 
 - [ ] Effective Java
-- [ ] Dive into Design Patterns
+- [x] Dive into Design Patterns
 - [ ] System Design Interview
 
 You can find digital notes for the things I study at [Notes Repository](https://github.com/Abdelrhman-Hosny/cs-obsidian-notes). You can find notes about:
